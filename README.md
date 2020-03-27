@@ -9,7 +9,7 @@ CA project .
 
 int main()
 {
-	printf("\n\nWelcome to OS project , made in quarantine : \n");
+	printf("\n\nWelcome to OS project  \n");
 
 	int n=0;
 	int g=0;
