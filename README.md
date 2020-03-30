@@ -1,5 +1,4 @@
 # OS-Project-
-CA project .
 //Necessary header files needed.
 #include <stdio.h>
 #include <sys/types.h>
@@ -59,6 +58,7 @@ int main()
 			wait(NULL);
 			//Wait fucntion call is placed.
 			printf("----Parent process is done.----\n");
+			//Final program executed.
 		}
 	return 0; 
 }
